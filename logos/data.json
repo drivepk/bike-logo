@@ -1,0 +1,756 @@
+[
+  {
+    "name": "Aima",
+    "slug": "aima",
+    "image": {
+      "source": "Aima.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/aima.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/aima.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Aima.png",
+      "localThumb": "./thumb/aima.png",
+      "localOptimized": "./optimized/aima.png",
+      "localOriginal": "./orignal/Aima.png"
+    }
+  },
+  {
+    "name": "Aprilia",
+    "slug": "aprilia",
+    "image": {
+      "source": "Aprilia.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/aprilia.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/aprilia.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Aprilia.png",
+      "localThumb": "./thumb/aprilia.png",
+      "localOptimized": "./optimized/aprilia.png",
+      "localOriginal": "./orignal/Aprilia.png"
+    }
+  },
+  {
+    "name": "Benelli",
+    "slug": "benelli",
+    "image": {
+      "source": "Benelli.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/benelli.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/benelli.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Benelli.png",
+      "localThumb": "./thumb/benelli.png",
+      "localOptimized": "./optimized/benelli.png",
+      "localOriginal": "./orignal/Benelli.png"
+    }
+  },
+  {
+    "name": "Benling",
+    "slug": "benling",
+    "image": {
+      "source": "Benling.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/benling.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/benling.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Benling.png",
+      "localThumb": "./thumb/benling.png",
+      "localOptimized": "./optimized/benling.png",
+      "localOriginal": "./orignal/Benling.png"
+    }
+  },
+  {
+    "name": "BMW",
+    "slug": "bmw",
+    "image": {
+      "source": "BMW.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/bmw.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/bmw.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/BMW.png",
+      "localThumb": "./thumb/bmw.png",
+      "localOptimized": "./optimized/bmw.png",
+      "localOriginal": "./orignal/BMW.png"
+    }
+  },
+  {
+    "name": "BRG",
+    "slug": "brg",
+    "image": {
+      "source": "BRG.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/brg.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/brg.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/BRG.png",
+      "localThumb": "./thumb/brg.png",
+      "localOptimized": "./optimized/brg.png",
+      "localOriginal": "./orignal/BRG.png"
+    }
+  },
+  {
+    "name": "Crown",
+    "slug": "crown",
+    "image": {
+      "source": "Crown.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/crown.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/crown.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Crown.png",
+      "localThumb": "./thumb/crown.png",
+      "localOptimized": "./optimized/crown.png",
+      "localOriginal": "./orignal/Crown.png"
+    }
+  },
+  {
+    "name": "Cupra",
+    "slug": "cupra",
+    "image": {
+      "source": "C:\\Users\\drive\\OneDrive\\Desktop\\car-logos-dataset-master\\local-logos\\cupra.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/cupra.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/cupra.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/cupra.png",
+      "localThumb": "./thumb/cupra.png",
+      "localOptimized": "./optimized/cupra.png",
+      "localOriginal": "./orignal/cupra.png"
+    }
+  },
+  {
+    "name": "DYL",
+    "slug": "dyl",
+    "image": {
+      "source": "DYL.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/dyl.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/dyl.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/DYL.png",
+      "localThumb": "./thumb/dyl.png",
+      "localOptimized": "./optimized/dyl.png",
+      "localOriginal": "./orignal/DYL.png"
+    }
+  },
+  {
+    "name": "E TURBO",
+    "slug": "e-turbo",
+    "image": {
+      "source": "E TURBO.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/e-turbo.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/e-turbo.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/E TURBO.png",
+      "localThumb": "./thumb/e-turbo.png",
+      "localOptimized": "./optimized/e-turbo.png",
+      "localOriginal": "./orignal/E TURBO.png"
+    }
+  },
+  {
+    "name": "Ecodost",
+    "slug": "ecodost",
+    "image": {
+      "source": "Ecodost.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/ecodost.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/ecodost.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Ecodost.png",
+      "localThumb": "./thumb/ecodost.png",
+      "localOptimized": "./optimized/ecodost.png",
+      "localOriginal": "./orignal/Ecodost.png"
+    }
+  },
+  {
+    "name": "Elfa",
+    "slug": "elfa",
+    "image": {
+      "source": "elfa.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/elfa.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/elfa.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/elfa.png",
+      "localThumb": "./thumb/elfa.png",
+      "localOptimized": "./optimized/elfa.png",
+      "localOriginal": "./orignal/elfa.png"
+    }
+  },
+  {
+    "name": "Energica",
+    "slug": "energica",
+    "image": {
+      "source": "energica.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/energica.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/energica.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/energica.png",
+      "localThumb": "./thumb/energica.png",
+      "localOptimized": "./optimized/energica.png",
+      "localOriginal": "./orignal/energica.png"
+    }
+  },
+  {
+    "name": "Etorqx",
+    "slug": "etorqx",
+    "image": {
+      "source": "Etorqx.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/etorqx.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/etorqx.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Etorqx.png",
+      "localThumb": "./thumb/etorqx.png",
+      "localOptimized": "./optimized/etorqx.png",
+      "localOriginal": "./orignal/Etorqx.png"
+    }
+  },
+  {
+    "name": "Evee",
+    "slug": "evee",
+    "image": {
+      "source": "Evee.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/evee.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/evee.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Evee.png",
+      "localThumb": "./thumb/evee.png",
+      "localOptimized": "./optimized/evee.png",
+      "localOriginal": "./orignal/Evee.png"
+    }
+  },
+  {
+    "name": "Eveon",
+    "slug": "eveon",
+    "image": {
+      "source": "eveon.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/eveon.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/eveon.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/eveon.png",
+      "localThumb": "./thumb/eveon.png",
+      "localOptimized": "./optimized/eveon.png",
+      "localOriginal": "./orignal/eveon.png"
+    }
+  },
+  {
+    "name": "Ezbike",
+    "slug": "ezbike",
+    "image": {
+      "source": "Ezbike.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/ezbike.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/ezbike.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Ezbike.png",
+      "localThumb": "./thumb/ezbike.png",
+      "localOptimized": "./optimized/ezbike.png",
+      "localOriginal": "./orignal/Ezbike.png"
+    }
+  },
+  {
+    "name": "Hi Speed",
+    "slug": "hi-speed",
+    "image": {
+      "source": "Hi Speed.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/hi-speed.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/hi-speed.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Hi Speed.png",
+      "localThumb": "./thumb/hi-speed.png",
+      "localOptimized": "./optimized/hi-speed.png",
+      "localOriginal": "./orignal/Hi Speed.png"
+    }
+  },
+  {
+    "name": "Honda",
+    "slug": "honda",
+    "image": {
+      "source": "Honda.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/honda.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/honda.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Honda.png",
+      "localThumb": "./thumb/honda.png",
+      "localOptimized": "./optimized/honda.png",
+      "localOriginal": "./orignal/Honda.png"
+    }
+  },
+  {
+    "name": "HUAGUAN",
+    "slug": "huaguan",
+    "image": {
+      "source": "HUAGUAN.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/huaguan.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/huaguan.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/HUAGUAN.png",
+      "localThumb": "./thumb/huaguan.png",
+      "localOptimized": "./optimized/huaguan.png",
+      "localOriginal": "./orignal/HUAGUAN.png"
+    }
+  },
+  {
+    "name": "Hyder",
+    "slug": "hyder",
+    "image": {
+      "source": "Hyder.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/hyder.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/hyder.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Hyder.png",
+      "localThumb": "./thumb/hyder.png",
+      "localOptimized": "./optimized/hyder.png",
+      "localOriginal": "./orignal/Hyder.png"
+    }
+  },
+  {
+    "name": "Jetour",
+    "slug": "jetour",
+    "image": {
+      "source": "C:\\Users\\drive\\OneDrive\\Desktop\\car-logos-dataset-master\\local-logos\\jetour.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/jetour.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/jetour.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/jetour.png",
+      "localThumb": "./thumb/jetour.png",
+      "localOptimized": "./optimized/jetour.png",
+      "localOriginal": "./orignal/jetour.png"
+    }
+  },
+  {
+    "name": "Jolta Electric",
+    "slug": "jolta-electric",
+    "image": {
+      "source": "Jolta Electric.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/jolta-electric.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/jolta-electric.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Jolta Electric.png",
+      "localThumb": "./thumb/jolta-electric.png",
+      "localOptimized": "./optimized/jolta-electric.png",
+      "localOriginal": "./orignal/Jolta Electric.png"
+    }
+  },
+  {
+    "name": "Kawasaki",
+    "slug": "kawasaki",
+    "image": {
+      "source": "Kawasaki.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/kawasaki.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/kawasaki.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Kawasaki.png",
+      "localThumb": "./thumb/kawasaki.png",
+      "localOptimized": "./optimized/kawasaki.png",
+      "localOriginal": "./orignal/Kawasaki.png"
+    }
+  },
+  {
+    "name": "KEEWAY",
+    "slug": "keeway",
+    "image": {
+      "source": "KEEWAY.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/keeway.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/keeway.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/KEEWAY.png",
+      "localThumb": "./thumb/keeway.png",
+      "localOptimized": "./optimized/keeway.png",
+      "localOriginal": "./orignal/KEEWAY.png"
+    }
+  },
+  {
+    "name": "Kove",
+    "slug": "kove",
+    "image": {
+      "source": "kove.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/kove.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/kove.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/kove.png",
+      "localThumb": "./thumb/kove.png",
+      "localOptimized": "./optimized/kove.png",
+      "localOriginal": "./orignal/kove.png"
+    }
+  },
+  {
+    "name": "Leader",
+    "slug": "leader",
+    "image": {
+      "source": "leader.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/leader.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/leader.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/leader.png",
+      "localThumb": "./thumb/leader.png",
+      "localOptimized": "./optimized/leader.png",
+      "localOriginal": "./orignal/leader.png"
+    }
+  },
+  {
+    "name": "Lectrix",
+    "slug": "lectrix",
+    "image": {
+      "source": "Lectrix.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/lectrix.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/lectrix.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Lectrix.png",
+      "localThumb": "./thumb/lectrix.png",
+      "localOptimized": "./optimized/lectrix.png",
+      "localOriginal": "./orignal/Lectrix.png"
+    }
+  },
+  {
+    "name": "Lifan",
+    "slug": "lifan",
+    "image": {
+      "source": "Lifan.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/lifan.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/lifan.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Lifan.png",
+      "localThumb": "./thumb/lifan.png",
+      "localOptimized": "./optimized/lifan.png",
+      "localOriginal": "./orignal/Lifan.png"
+    }
+  },
+  {
+    "name": "LUYUAN",
+    "slug": "luyuan",
+    "image": {
+      "source": "LUYUAN.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/luyuan.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/luyuan.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/LUYUAN.png",
+      "localThumb": "./thumb/luyuan.png",
+      "localOptimized": "./optimized/luyuan.png",
+      "localOriginal": "./orignal/LUYUAN.png"
+    }
+  },
+  {
+    "name": "Metro",
+    "slug": "metro",
+    "image": {
+      "source": "Metro.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/metro.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/metro.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Metro.png",
+      "localThumb": "./thumb/metro.png",
+      "localOptimized": "./optimized/metro.png",
+      "localOriginal": "./orignal/Metro.png"
+    }
+  },
+  {
+    "name": "MS JAUAR",
+    "slug": "ms-jauar",
+    "image": {
+      "source": "MS JAUAR.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/ms-jauar.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/ms-jauar.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/MS JAUAR.png",
+      "localThumb": "./thumb/ms-jauar.png",
+      "localOptimized": "./optimized/ms-jauar.png",
+      "localOriginal": "./orignal/MS JAUAR.png"
+    }
+  },
+  {
+    "name": "New Asai",
+    "slug": "new-asai",
+    "image": {
+      "source": "New asai.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/new-asai.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/new-asai.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/New asai.png",
+      "localThumb": "./thumb/new-asai.png",
+      "localOptimized": "./optimized/new-asai.png",
+      "localOriginal": "./orignal/New asai.png"
+    }
+  },
+  {
+    "name": "Okla",
+    "slug": "okla",
+    "image": {
+      "source": "Okla.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/okla.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/okla.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Okla.png",
+      "localThumb": "./thumb/okla.png",
+      "localOptimized": "./optimized/okla.png",
+      "localOriginal": "./orignal/Okla.png"
+    }
+  },
+  {
+    "name": "Omoda",
+    "slug": "omoda",
+    "image": {
+      "source": "C:\\Users\\drive\\OneDrive\\Desktop\\car-logos-dataset-master\\local-logos\\omoda.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/omoda.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/omoda.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/omoda.png",
+      "localThumb": "./thumb/omoda.png",
+      "localOptimized": "./optimized/omoda.png",
+      "localOriginal": "./orignal/omoda.png"
+    }
+  },
+  {
+    "name": "OREVO",
+    "slug": "orevo",
+    "image": {
+      "source": "OREVO.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/orevo.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/orevo.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/OREVO.png",
+      "localThumb": "./thumb/orevo.png",
+      "localOptimized": "./optimized/orevo.png",
+      "localOriginal": "./orignal/OREVO.png"
+    }
+  },
+  {
+    "name": "OVERDRIVE",
+    "slug": "overdrive",
+    "image": {
+      "source": "OVERDRIVE.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/overdrive.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/overdrive.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/OVERDRIVE.png",
+      "localThumb": "./thumb/overdrive.png",
+      "localOptimized": "./optimized/overdrive.png",
+      "localOriginal": "./orignal/OVERDRIVE.png"
+    }
+  },
+  {
+    "name": "Pakzone Electric",
+    "slug": "pakzone-electric",
+    "image": {
+      "source": "Pakzone electric.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/pakzone-electric.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/pakzone-electric.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Pakzone electric.png",
+      "localThumb": "./thumb/pakzone-electric.png",
+      "localOptimized": "./optimized/pakzone-electric.png",
+      "localOriginal": "./orignal/Pakzone electric.png"
+    }
+  },
+  {
+    "name": "QJ MOTOR",
+    "slug": "qj-motor",
+    "image": {
+      "source": "QJ MOTOR.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/qj-motor.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/qj-motor.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/QJ MOTOR.png",
+      "localThumb": "./thumb/qj-motor.png",
+      "localOptimized": "./optimized/qj-motor.png",
+      "localOriginal": "./orignal/QJ MOTOR.png"
+    }
+  },
+  {
+    "name": "Ravi",
+    "slug": "ravi",
+    "image": {
+      "source": "ravi.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/ravi.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/ravi.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/ravi.png",
+      "localThumb": "./thumb/ravi.png",
+      "localOptimized": "./optimized/ravi.png",
+      "localOriginal": "./orignal/ravi.png"
+    }
+  },
+  {
+    "name": "REVOO",
+    "slug": "revoo",
+    "image": {
+      "source": "REVOO.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/revoo.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/revoo.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/REVOO.png",
+      "localThumb": "./thumb/revoo.png",
+      "localOptimized": "./optimized/revoo.png",
+      "localOriginal": "./orignal/REVOO.png"
+    }
+  },
+  {
+    "name": "Road King",
+    "slug": "road-king",
+    "image": {
+      "source": "Road King.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/road-king.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/road-king.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Road King.png",
+      "localThumb": "./thumb/road-king.png",
+      "localOptimized": "./optimized/road-king.png",
+      "localOriginal": "./orignal/Road King.png"
+    }
+  },
+  {
+    "name": "Road Prince",
+    "slug": "road-prince",
+    "image": {
+      "source": "Road Prince.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/road-prince.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/road-prince.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Road Prince.png",
+      "localThumb": "./thumb/road-prince.png",
+      "localOptimized": "./optimized/road-prince.png",
+      "localOriginal": "./orignal/Road Prince.png"
+    }
+  },
+  {
+    "name": "Saige",
+    "slug": "saige",
+    "image": {
+      "source": "Saige.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/saige.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/saige.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Saige.png",
+      "localThumb": "./thumb/saige.png",
+      "localOptimized": "./optimized/saige.png",
+      "localOriginal": "./orignal/Saige.png"
+    }
+  },
+  {
+    "name": "SEV",
+    "slug": "sev",
+    "image": {
+      "source": "C:\\Users\\drive\\OneDrive\\Desktop\\car-logos-dataset-master\\local-logos\\sev.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/sev.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/sev.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/sev.png",
+      "localThumb": "./thumb/sev.png",
+      "localOptimized": "./optimized/sev.png",
+      "localOriginal": "./orignal/sev.png"
+    }
+  },
+  {
+    "name": "Sunyoung",
+    "slug": "sunyoung",
+    "image": {
+      "source": "sunyoung.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/sunyoung.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/sunyoung.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/sunyoung.png",
+      "localThumb": "./thumb/sunyoung.png",
+      "localOptimized": "./optimized/sunyoung.png",
+      "localOriginal": "./orignal/sunyoung.png"
+    }
+  },
+  {
+    "name": "Super Power",
+    "slug": "super-power",
+    "image": {
+      "source": "Super Power.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/super-power.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/super-power.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Super Power.png",
+      "localThumb": "./thumb/super-power.png",
+      "localOptimized": "./optimized/super-power.png",
+      "localOriginal": "./orignal/Super Power.png"
+    }
+  },
+  {
+    "name": "Super Star",
+    "slug": "super-star",
+    "image": {
+      "source": "Super Star.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/super-star.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/super-star.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Super Star.png",
+      "localThumb": "./thumb/super-star.png",
+      "localOptimized": "./optimized/super-star.png",
+      "localOriginal": "./orignal/Super Star.png"
+    }
+  },
+  {
+    "name": "Suzuki",
+    "slug": "suzuki",
+    "image": {
+      "source": "Suzuki.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/suzuki.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/suzuki.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Suzuki.png",
+      "localThumb": "./thumb/suzuki.png",
+      "localOptimized": "./optimized/suzuki.png",
+      "localOriginal": "./orignal/Suzuki.png"
+    }
+  },
+  {
+    "name": "Unique",
+    "slug": "unique",
+    "image": {
+      "source": "Unique.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/unique.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/unique.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Unique.png",
+      "localThumb": "./thumb/unique.png",
+      "localOptimized": "./optimized/unique.png",
+      "localOriginal": "./orignal/Unique.png"
+    }
+  },
+  {
+    "name": "United",
+    "slug": "united",
+    "image": {
+      "source": "United.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/united.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/united.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/United.png",
+      "localThumb": "./thumb/united.png",
+      "localOptimized": "./optimized/united.png",
+      "localOriginal": "./orignal/United.png"
+    }
+  },
+  {
+    "name": "United Star",
+    "slug": "united-star",
+    "image": {
+      "source": "United Star.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/united-star.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/united-star.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/United Star.png",
+      "localThumb": "./thumb/united-star.png",
+      "localOptimized": "./optimized/united-star.png",
+      "localOriginal": "./orignal/United Star.png"
+    }
+  },
+  {
+    "name": "Vespa",
+    "slug": "vespa",
+    "image": {
+      "source": "vespa.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/vespa.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/vespa.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/vespa.png",
+      "localThumb": "./thumb/vespa.png",
+      "localOptimized": "./optimized/vespa.png",
+      "localOriginal": "./orignal/vespa.png"
+    }
+  },
+  {
+    "name": "Vlektra",
+    "slug": "vlektra",
+    "image": {
+      "source": "Vlektra.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/vlektra.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/vlektra.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Vlektra.png",
+      "localThumb": "./thumb/vlektra.png",
+      "localOptimized": "./optimized/vlektra.png",
+      "localOriginal": "./orignal/Vlektra.png"
+    }
+  },
+  {
+    "name": "Yadea",
+    "slug": "yadea",
+    "image": {
+      "source": "Yadea.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/yadea.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/yadea.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Yadea.png",
+      "localThumb": "./thumb/yadea.png",
+      "localOptimized": "./optimized/yadea.png",
+      "localOriginal": "./orignal/Yadea.png"
+    }
+  },
+  {
+    "name": "Yamaha",
+    "slug": "yamaha",
+    "image": {
+      "source": "Yamaha.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/yamaha.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/yamaha.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Yamaha.png",
+      "localThumb": "./thumb/yamaha.png",
+      "localOptimized": "./optimized/yamaha.png",
+      "localOriginal": "./orignal/Yamaha.png"
+    }
+  },
+  {
+    "name": "YJ Future",
+    "slug": "yj-future",
+    "image": {
+      "source": "YJ Future.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/yj-future.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/yj-future.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/YJ Future.png",
+      "localThumb": "./thumb/yj-future.png",
+      "localOptimized": "./optimized/yj-future.png",
+      "localOriginal": "./orignal/YJ Future.png"
+    }
+  },
+  {
+    "name": "Zongfa Ev",
+    "slug": "zongfa-ev",
+    "image": {
+      "source": "Zongfa ev.png",
+      "thumb": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/thumb/zongfa-ev.png",
+      "optimized": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/optimized/zongfa-ev.png",
+      "original": "https://raw.githubusercontent.com/drivepk/bike-logo/master/logos/orignal/Zongfa ev.png",
+      "localThumb": "./thumb/zongfa-ev.png",
+      "localOptimized": "./optimized/zongfa-ev.png",
+      "localOriginal": "./orignal/Zongfa ev.png"
+    }
+  }
+]
